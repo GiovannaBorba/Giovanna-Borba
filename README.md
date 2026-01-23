@@ -16,8 +16,7 @@ I'm an undergraduate **Computer Engineering** student at **Pontifical Catholic U
 - **Domains:** Remote Sensing, Airborne and Space Surveillance  
 
 ## 🧠 Research Topics
-- Error Correction Codes: **Hamming, Extended Hamming, Parity, LDPC**
-- FPGA-based implementations and validation
+- Error Correction Codes: **Hamming, Extended Hamming, Parity**
 - Hardware-oriented signal processing
 
 ## 📌 Notes
