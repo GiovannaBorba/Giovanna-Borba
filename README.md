@@ -13,7 +13,6 @@ I'm an undergraduate **Computer Engineering** student at **Pontifical Catholic U
 - **Hardware Description & FPGA:** ModelSim, Vivado  
 - **Synthesis:** Cadence Genus  
 - **Embedded Systems:** STM32 microcontrollers, low-level C  
-- **Domains:** Remote Sensing, Airborne and Space Surveillance  
 
 ## 🧠 Research Topics
 - Error Correction Codes: **Hamming, Extended Hamming, Parity**
