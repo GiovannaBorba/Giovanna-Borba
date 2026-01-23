@@ -18,6 +18,12 @@ I'm an undergraduate **Computer Engineering** student at **Pontifical Catholic U
 ## 🧠 Research Topics
 - Error Correction Codes: **Hamming, Extended Hamming, Parity**
 - Hardware-oriented signal processing
-
+  
+## 📄 Publications
+- Savaris, W.; Muniz, A.; **BORBA, Giovanna**; Girardi, R.; Silveira, J.; Marcon, C.  
+  *Overlapped Error Correction Codes in Two-Dimensional Structures.*  
+  IEEE Latin America Symposium on Circuits and Systems (LASCAS), 2025.  
+  DOI: https://doi.org/10.1109/LASCAS64004.2025.10966311
+  
 ## 📌 Notes
 This profile is mainly used to share **academic, experimental, and low-level system projects**, focusing on clarity, reproducibility, and hardware-aware design.
