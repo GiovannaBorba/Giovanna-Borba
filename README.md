@@ -9,10 +9,11 @@ I'm an undergraduate **Computer Engineering** student at **Pontifical Catholic U
 - Digital Signal Processing (DSP)
 
 ## 💻 Experience & Tools
-- **Languages:** VHDL, C (main), C++, Verilog  
-- **Hardware Description & FPGA:** ModelSim, Vivado  
-- **Synthesis:** Cadence Genus  
-- **Embedded Systems:** STM32 microcontrollers, low-level C  
+- **Programming Languages:** C (primary), C++
+- **Hardware Description Languages:** VHDL, Verilog  
+- **HDL & FPGA Tools:** ModelSim, Vivado  
+- **Synthesis Tools:** Cadence Genus  
+- **Embedded Systems:** STM32 microcontrollers, low-level C programming
 
 ## 🧠 Research Topics
 - Error Correction Codes: **Hamming, Extended Hamming, Parity**
