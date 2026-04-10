@@ -12,10 +12,10 @@ I'm an undergraduate **Computer Engineering** student at **Pontifical Catholic U
 - **Programming Languages:** C (primary), C++
 - **Hardware Description Languages:** VHDL, Verilog  
 - **HDL & FPGA Tools:** ModelSim, Vivado  
-- **Synthesis Tools:** Cadence Genus
-- **Programming & Analysis Tools:** MATLAB (signal processing, control systems)
-- **Embedded Systems:** STM32 microcontrollers, low-level C programming
-
+- **Synthesis Tools:** Cadence Genus  
+- **Programming & Analysis Tools:** MATLAB (signal processing, control systems)  
+- **Embedded Systems:** STM32 microcontrollers (low-level C, peripheral interfacing)
+  
 ## 🧠 Research Topics
 - Error Correction Codes: **Hamming, Extended Hamming, Parity**
 - Hardware-oriented signal processing
