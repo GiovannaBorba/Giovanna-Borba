@@ -27,7 +27,7 @@ I'm an undergraduate **Computer Engineering** student at **Pontifical Catholic U
   IEEE Latin America Symposium on Circuits and Systems (LASCAS), 2025.  
   DOI: https://doi.org/10.1109/LASCAS64004.2025.10966311
 
-- Stefani, M.; Silva, F.; Silveira, J.; BORBA, Giovanna; Vargas, L.; Moreno, E.; Marcon, C.
+- Stefani, M.; Silva, F.; Silveira, J.; BORBA, Giovanna; Vargas, L.; Moreno, E.; Marcon, C.                         
   *DEMC: A dynamic multi-ECC memory controller with per-block adaptation.*
   Integration, Volume 109, July 2026, 102728 (Elsevier).
   DOI: https://doi.org/10.1016/j.vlsi.2026.102728
