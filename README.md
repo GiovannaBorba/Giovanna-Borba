@@ -7,6 +7,7 @@ I'm an undergraduate **Computer Engineering** student at **Pontifical Catholic U
 - Embedded firmware development  
 - Error Correction Codes (ECC)  
 - Digital Signal Processing (DSP)
+- Digital Control Systems
 
 ## 💻 Experience & Tools
 - **Programming Languages:** C (primary), C++
